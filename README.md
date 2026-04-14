@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hari </h1>
-<h3 align="center">A passionate laravel developer from Nepal</h3>
+<h3 align="center">A passionate Laravel developer from Nepal</h3>
 
 - 📫 How to reach me **harip4077@gmail.com**
 
