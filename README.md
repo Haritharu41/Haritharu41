@@ -12,7 +12,7 @@
 
 ### 💻 I'm currently ...
 
-- 🐳 Working as **Junior Laravel Developer** 
+- 🐳 Working as ** Laravel Developer** 
 - 📚 Learning **DevOps**
 - 🎓 Diploma in Computer Engineering (Web Development) — Rapti Engineering College, Ghorahi, Nepal
 
